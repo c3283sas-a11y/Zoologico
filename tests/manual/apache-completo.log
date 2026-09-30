@@ -1,0 +1,2 @@
+[Wed Sep 30 15:14:11.093322 2026] [log_config:error] [pid 25592:tid 368] (OS 5)Acceso denegado.  : AH00649: could not open transfer log file C:/xampp/apache/logs/access.log.
+AH00015: Unable to open logs

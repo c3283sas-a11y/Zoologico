@@ -1,0 +1,5 @@
+[Wed Sep 30 15:11:41.793664 2026] [mpm_winnt:notice] [pid 24392:tid 412] AH00354: Child: Starting 64 worker threads.
+[Wed Sep 30 15:12:32.975383 2026] [core:warn] [pid 21124:tid 400] AH00098: pid file C:/xampp/htdocs/ZoologicoPortafolio/tests/manual/apache.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 30 15:12:33.123245 2026] [mpm_winnt:notice] [pid 21124:tid 400] AH00354: Child: Starting 64 worker threads.
+[Wed Sep 30 15:16:21.339292 2026] [core:warn] [pid 4536:tid 388] AH00098: pid file C:/xampp/htdocs/ZoologicoPortafolio/tests/manual/apache.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 30 15:16:21.424884 2026] [mpm_winnt:notice] [pid 4536:tid 388] AH00354: Child: Starting 64 worker threads.
